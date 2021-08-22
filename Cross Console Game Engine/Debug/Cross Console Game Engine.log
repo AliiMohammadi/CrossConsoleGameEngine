@@ -1,0 +1,8 @@
+﻿  Renderer.cpp
+D:\Developing\Console game c++\Cross Console Game Engine\Console.cpp(44): warning C4244: '=': conversion from 'float' to 'SHORT', possible loss of data
+D:\Developing\Console game c++\Cross Console Game Engine\Console.cpp(46): warning C4244: '=': conversion from 'float' to 'SHORT', possible loss of data
+D:\Developing\Console game c++\Cross Console Game Engine\Console.cpp(142): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+D:\Developing\Console game c++\Cross Console Game Engine\Location.cpp(15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Developing\Console game c++\Cross Console Game Engine\Location.cpp(16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Developing\Console game c++\Cross Console Game Engine\Renderer.cpp(26): warning C4018: '<': signed/unsigned mismatch
+D:\Developing\Console game c++\Cross Console Game Engine\Renderer.cpp(30): warning C4018: '<': signed/unsigned mismatch
